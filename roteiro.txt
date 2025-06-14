@@ -1,0 +1,8 @@
+Welcome
+
+Let's do a CRON
+CRON is a automation in javascript, where you make a code to be execute every ten seconds or one hour
+
+so let's go:
+
+CODING...

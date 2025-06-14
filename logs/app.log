@@ -1,0 +1,475 @@
+[2025-06-14 17:35:33] INFO: CRON scheduler 
+[2025-06-14 17:35:40] ERROR: CRON job failed: logger is not defined
+[2025-06-14 17:35:50] ERROR: CRON job failed: logger is not defined
+[2025-06-14 17:36:00] ERROR: CRON job failed: logger is not defined
+[2025-06-14 17:36:10] ERROR: CRON job failed: logger is not defined
+[2025-06-14 17:36:12] INFO: CRON scheduler 
+[2025-06-14 17:36:20] ERROR: CRON job failed: ReferenceError: logger is not defined
+[2025-06-14 17:36:30] ERROR: CRON job failed: ReferenceError: logger is not defined
+[2025-06-14 17:36:35] INFO: CRON scheduler 
+[2025-06-14 17:36:40] INFO: CRON job completed successfully
+[2025-06-14 17:36:40] ERROR: CRON job failed: ReferenceError: produtList is not defined
+[2025-06-14 17:36:50] INFO: CRON job completed successfully
+[2025-06-14 17:36:50] ERROR: CRON job failed: ReferenceError: produtList is not defined
+[2025-06-14 17:37:53] INFO: CRON scheduler 
+[2025-06-14 17:38:00] ERROR: CRON job failed: ReferenceError: logger is not defined
+[2025-06-14 17:38:10] ERROR: CRON job failed: ReferenceError: logger is not defined
+[2025-06-14 17:38:20] ERROR: CRON job failed: ReferenceError: logger is not defined
+[2025-06-14 17:38:30] INFO: CRON scheduler 
+[2025-06-14 17:38:40] ERROR: Error fetching data:
+[2025-06-14 17:38:40] ERROR: CRON job failed: TypeError: Invalid URL
+[2025-06-14 17:38:50] ERROR: Error fetching data:
+[2025-06-14 17:38:50] ERROR: CRON job failed: TypeError: Invalid URL
+[2025-06-14 17:39:00] ERROR: Error fetching data:
+[2025-06-14 17:39:00] ERROR: CRON job failed: TypeError: Invalid URL
+[2025-06-14 17:39:10] ERROR: Error fetching data:
+[2025-06-14 17:39:10] ERROR: CRON job failed: TypeError: Invalid URL
+[2025-06-14 17:39:20] ERROR: Error fetching data:
+[2025-06-14 17:39:20] ERROR: CRON job failed: TypeError: Invalid URL
+[2025-06-14 17:39:30] ERROR: Error fetching data:
+[2025-06-14 17:39:30] ERROR: CRON job failed: TypeError: Invalid URL
+[2025-06-14 17:39:40] ERROR: Error fetching data:
+[2025-06-14 17:39:40] ERROR: CRON job failed: TypeError: Invalid URL
+[2025-06-14 17:39:50] ERROR: Error fetching data:
+[2025-06-14 17:39:50] ERROR: CRON job failed: TypeError: Invalid URL
+[2025-06-14 17:40:00] ERROR: Error fetching data:
+[2025-06-14 17:40:00] ERROR: CRON job failed: TypeError: Invalid URL
+[2025-06-14 17:40:10] ERROR: Error fetching data:
+[2025-06-14 17:40:10] ERROR: CRON job failed: TypeError: Invalid URL
+[2025-06-14 17:40:20] ERROR: Error fetching data:
+[2025-06-14 17:40:20] ERROR: CRON job failed: TypeError: Invalid URL
+[2025-06-14 17:40:30] ERROR: Error fetching data:
+[2025-06-14 17:40:30] ERROR: CRON job failed: TypeError: Invalid URL
+[2025-06-14 17:40:40] ERROR: Error fetching data:
+[2025-06-14 17:40:40] ERROR: CRON job failed: TypeError: Invalid URL
+[2025-06-14 17:40:50] ERROR: Error fetching data:
+[2025-06-14 17:40:50] ERROR: CRON job failed: TypeError: Invalid URL
+[2025-06-14 17:41:00] ERROR: Error fetching data:
+[2025-06-14 17:41:00] ERROR: CRON job failed: TypeError: Invalid URL
+[2025-06-14 17:41:09] INFO: CRON scheduler 
+[2025-06-14 17:41:10] ERROR: Error fetching data:
+[2025-06-14 17:41:10] ERROR: CRON job failed: ReferenceError: API_INVENTORY is not defined
+[2025-06-14 17:41:20] ERROR: Error fetching data:
+[2025-06-14 17:41:20] ERROR: CRON job failed: ReferenceError: API_INVENTORY is not defined
+[2025-06-14 17:41:30] ERROR: Error fetching data:
+[2025-06-14 17:41:30] ERROR: CRON job failed: ReferenceError: API_INVENTORY is not defined
+[2025-06-14 17:41:40] ERROR: Error fetching data:
+[2025-06-14 17:41:40] ERROR: CRON job failed: ReferenceError: API_INVENTORY is not defined
+[2025-06-14 17:42:28] INFO: CRON scheduler 
+[2025-06-14 17:42:30] ERROR: Error fetching data:
+[2025-06-14 17:42:30] ERROR: CRON job failed: Error: self-signed certificate
+[2025-06-14 17:42:40] ERROR: Error fetching data:
+[2025-06-14 17:42:40] ERROR: CRON job failed: Error: self-signed certificate
+[2025-06-14 17:42:50] ERROR: Error fetching data:
+[2025-06-14 17:42:50] ERROR: CRON job failed: Error: self-signed certificate
+[2025-06-14 17:43:00] ERROR: Error fetching data:
+[2025-06-14 17:43:00] ERROR: CRON job failed: Error: self-signed certificate
+[2025-06-14 17:43:10] ERROR: Error fetching data:
+[2025-06-14 17:43:10] ERROR: CRON job failed: Error: self-signed certificate
+[2025-06-14 17:43:20] ERROR: Error fetching data:
+[2025-06-14 17:43:20] ERROR: CRON job failed: Error: self-signed certificate
+[2025-06-14 17:43:30] ERROR: Error fetching data:
+[2025-06-14 17:43:30] ERROR: CRON job failed: Error: self-signed certificate
+[2025-06-14 17:43:40] ERROR: Error fetching data:
+[2025-06-14 17:43:40] ERROR: CRON job failed: Error: self-signed certificate
+[2025-06-14 17:43:50] ERROR: Error fetching data:
+[2025-06-14 17:43:50] ERROR: CRON job failed: Error: self-signed certificate
+[2025-06-14 17:44:00] ERROR: Error fetching data:
+[2025-06-14 17:44:00] ERROR: CRON job failed: Error: self-signed certificate
+[2025-06-14 17:44:10] ERROR: Error fetching data:
+[2025-06-14 17:44:10] ERROR: CRON job failed: Error: self-signed certificate
+[2025-06-14 17:44:20] ERROR: Error fetching data:
+[2025-06-14 17:44:20] ERROR: CRON job failed: Error: self-signed certificate
+[2025-06-14 17:44:30] ERROR: Error fetching data:
+[2025-06-14 17:44:30] ERROR: CRON job failed: Error: self-signed certificate
+[2025-06-14 17:44:32] INFO: CRON scheduler 
+[2025-06-14 17:44:40] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:44:40] INFO: CRON job completed successfully
+[2025-06-14 17:44:40] INFO: this is return from api [object Object]
+[2025-06-14 17:44:50] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:44:50] INFO: CRON job completed successfully
+[2025-06-14 17:44:50] INFO: this is return from api [object Object]
+[2025-06-14 17:44:53] INFO: CRON scheduler 
+[2025-06-14 17:45:00] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:45:00] INFO: CRON job completed successfully
+[2025-06-14 17:45:00] INFO: this is return from api [object Object]
+[2025-06-14 17:45:10] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:45:10] INFO: CRON job completed successfully
+[2025-06-14 17:45:10] INFO: this is return from api [object Object]
+[2025-06-14 17:46:15] INFO: CRON scheduler 
+[2025-06-14 17:46:21] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:46:21] INFO: CRON job completed successfully
+[2025-06-14 17:46:21] INFO: this is return from api undefined
+[2025-06-14 17:46:31] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:46:31] INFO: CRON job completed successfully
+[2025-06-14 17:46:31] INFO: this is return from api undefined
+[2025-06-14 17:46:40] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:46:40] INFO: CRON job completed successfully
+[2025-06-14 17:46:40] INFO: this is return from api undefined
+[2025-06-14 17:46:50] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:46:50] INFO: CRON job completed successfully
+[2025-06-14 17:46:50] INFO: this is return from api undefined
+[2025-06-14 17:47:01] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:47:01] INFO: CRON job completed successfully
+[2025-06-14 17:47:01] INFO: this is return from api undefined
+[2025-06-14 17:47:10] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:47:10] INFO: CRON job completed successfully
+[2025-06-14 17:47:10] INFO: this is return from api undefined
+[2025-06-14 17:47:20] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:47:20] INFO: CRON job completed successfully
+[2025-06-14 17:47:20] INFO: this is return from api undefined
+[2025-06-14 17:47:30] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:47:30] INFO: CRON job completed successfully
+[2025-06-14 17:47:30] INFO: this is return from api undefined
+[2025-06-14 17:47:40] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:47:40] INFO: CRON job completed successfully
+[2025-06-14 17:47:40] INFO: this is return from api undefined
+[2025-06-14 17:47:53] INFO: CRON scheduler 
+[2025-06-14 17:48:00] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:48:00] INFO: CRON job completed successfully
+[2025-06-14 17:48:00] INFO: this is return from api undefined
+[2025-06-14 17:48:10] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:48:10] INFO: CRON job completed successfully
+[2025-06-14 17:48:10] INFO: this is return from api undefined
+[2025-06-14 17:55:24] INFO: CRON scheduler 
+[2025-06-14 17:55:30] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:55:30] INFO: Return from api : 
+[2025-06-14 17:55:30] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 17:55:40] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:55:40] INFO: Return from api : 
+[2025-06-14 17:55:40] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 17:55:50] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:55:50] INFO: Return from api : 
+[2025-06-14 17:55:50] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 17:56:00] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:56:00] INFO: Return from api : 
+[2025-06-14 17:56:00] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 17:56:10] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:56:10] INFO: Return from api : 
+[2025-06-14 17:56:10] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 17:56:20] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:56:20] INFO: Return from api : 
+[2025-06-14 17:56:20] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 17:56:30] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:56:30] INFO: Return from api : 
+[2025-06-14 17:56:30] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 17:56:40] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:56:40] INFO: Return from api : 
+[2025-06-14 17:56:40] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 17:56:50] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:56:50] INFO: Return from api : 
+[2025-06-14 17:56:50] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 17:57:00] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:57:00] INFO: Return from api : 
+[2025-06-14 17:57:00] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 17:57:10] INFO: Data fetched successfully: [object Object]
+[2025-06-14 17:57:10] INFO: Return from api : 
+[2025-06-14 17:57:10] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 18:05:06] INFO: CRON scheduler 
+[2025-06-14 18:05:24] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:05:24] INFO: Return from api : 
+[2025-06-14 18:05:24] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 18:05:24] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:05:24] INFO: Return from api : 
+[2025-06-14 18:05:24] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 18:05:31] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:05:31] INFO: Return from api : 
+[2025-06-14 18:05:31] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 18:05:41] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:05:41] INFO: Return from api : 
+[2025-06-14 18:05:41] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 18:05:50] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:05:50] INFO: Return from api : 
+[2025-06-14 18:05:50] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 18:06:01] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:06:01] INFO: Return from api : 
+[2025-06-14 18:06:01] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 18:06:10] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:06:10] INFO: Return from api : 
+[2025-06-14 18:06:10] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 18:06:20] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:06:20] INFO: Return from api : 
+[2025-06-14 18:06:20] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 18:06:30] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:06:30] INFO: Return from api : 
+[2025-06-14 18:06:30] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 18:06:40] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:06:40] INFO: Return from api : 
+[2025-06-14 18:06:40] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 18:06:50] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:06:50] INFO: Return from api : 
+[2025-06-14 18:06:50] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'forEach')
+[2025-06-14 18:12:14] INFO: CRON scheduler 
+[2025-06-14 18:12:21] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:12:21] INFO: Return from api : 
+[2025-06-14 18:12:21] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:12:30] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:12:30] INFO: Return from api : 
+[2025-06-14 18:12:30] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:12:40] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:12:40] INFO: Return from api : 
+[2025-06-14 18:12:40] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:12:50] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:12:50] INFO: Return from api : 
+[2025-06-14 18:12:50] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:13:00] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:13:00] INFO: Return from api : 
+[2025-06-14 18:13:00] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:13:11] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:13:11] INFO: Return from api : 
+[2025-06-14 18:13:11] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:13:20] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:13:20] INFO: Return from api : 
+[2025-06-14 18:13:20] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:13:30] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:13:30] INFO: Return from api : 
+[2025-06-14 18:13:30] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:13:42] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:13:42] INFO: Return from api : 
+[2025-06-14 18:13:42] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:13:50] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:13:50] INFO: Return from api : 
+[2025-06-14 18:13:50] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:14:02] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:14:02] INFO: Return from api : 
+[2025-06-14 18:14:02] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:14:10] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:14:10] INFO: Return from api : 
+[2025-06-14 18:14:10] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:14:20] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:14:20] INFO: Return from api : 
+[2025-06-14 18:14:20] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:14:31] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:14:31] INFO: Return from api : 
+[2025-06-14 18:14:31] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:14:40] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:14:40] INFO: Return from api : 
+[2025-06-14 18:14:40] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:14:50] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:14:50] INFO: Return from api : 
+[2025-06-14 18:14:50] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:15:01] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:15:01] INFO: Return from api : 
+[2025-06-14 18:15:01] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:15:10] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:15:10] INFO: Return from api : 
+[2025-06-14 18:15:10] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:15:21] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:15:21] INFO: Return from api : 
+[2025-06-14 18:15:21] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:15:31] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:15:31] INFO: Return from api : 
+[2025-06-14 18:15:31] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:15:40] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:15:40] INFO: Return from api : 
+[2025-06-14 18:15:40] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:15:50] INFO: Data fetched successfully: [object Object]
+[2025-06-14 18:15:50] INFO: Return from api : 
+[2025-06-14 18:15:50] ERROR: CRON job failed: TypeError: Cannot read properties of undefined (reading 'array')
+[2025-06-14 18:20:49] INFO: CRON scheduler 
+[2025-06-14 18:20:51] INFO: Data fetched successfully: [{"name":"Samsung Galaxy S24 Ultra","price":5499.9,"quantity":25},{"name":"iPhone 15 Pro Max","price":7299,"quantity":15},{"name":"Xiaomi Redmi Note 13 Pro","price":1899.9,"quantity":30},{"name":"Motorola Edge 50 Fusion","price":2499,"quantity":20},{"name":"Alexa","price":300,"quantity":100},{"name":"Product Model 1","price":2041.28,"quantity":12},{"name":"Product Model 2","price":2262.67,"quantity":8},{"name":"Product Model 3","price":3155.47,"quantity":32},{"name":"Product Model 4","price":8514.1,"quantity":30},{"name":"Product Model 5","price":2138.39,"quantity":40},{"name":"Product Model 6","price":9370.92,"quantity":35},{"name":"Product Model 7","price":3120.93,"quantity":18},{"name":"Product Model 8","price":3700.47,"quantity":72},{"name":"Product Model 9","price":2591,"quantity":22},{"name":"Product Model 10","price":5836.26,"quantity":63},{"name":"Product Model 11","price":6541.86,"quantity":8},{"name":"Product Model 12","price":9303.09,"quantity":91},{"name":"Product Model 13","price":5113.57,"quantity":34},{"name":"Product Model 14","price":1773.56,"quantity":83},{"name":"Product Model 15","price":7152.01,"quantity":19},{"name":"Product Model 16","price":3887.2,"quantity":93},{"name":"Product Model 17","price":5380.59,"quantity":79},{"name":"Product Model 18","price":3812.52,"quantity":72},{"name":"Product Model 19","price":5748.98,"quantity":38},{"name":"Product Model 20","price":6797.96,"quantity":25},{"name":"Product Model 21","price":8143.46,"quantity":7},{"name":"Product Model 22","price":3786.44,"quantity":41},{"name":"Product Model 23","price":9997.11,"quantity":63},{"name":"Product Model 24","price":5540.11,"quantity":23},{"name":"Product Model 25","price":9163.2,"quantity":76},{"name":"Product Model 26","price":5301.28,"quantity":92},{"name":"Product Model 27","price":8634.19,"quantity":27},{"name":"Product Model 28","price":8416.88,"quantity":11},{"name":"Product Model 29","price":3802.12,"quantity":99},{"name":"Product Model 30","price":5219.81,"quantity":39},{"name":"Product Model 31","price":3522.33,"quantity":94},{"name":"Product Model 32","price":8501.24,"quantity":70},{"name":"Product Model 33","price":6685.13,"quantity":86},{"name":"Product Model 34","price":7686.9,"quantity":87},{"name":"Product Model 35","price":7557.57,"quantity":95},{"name":"Product Model 36","price":1480.11,"quantity":2},{"name":"Product Model 37","price":1116,"quantity":73},{"name":"Product Model 38","price":9889.07,"quantity":71},{"name":"Product Model 39","price":9463.14,"quantity":65},{"name":"Product Model 40","price":5679.7,"quantity":5},{"name":"Product Model 41","price":8956.65,"quantity":48},{"name":"Product Model 42","price":4257.86,"quantity":79},{"name":"Product Model 43","price":409.58,"quantity":90},{"name":"Product Model 44","price":8286.02,"quantity":35},{"name":"Product Model 45","price":9674.57,"quantity":48},{"name":"Product Model 46","price":1228.5,"quantity":4},{"name":"Product Model 47","price":402.5,"quantity":18},{"name":"Product Model 48","price":7856.23,"quantity":3},{"name":"Product Model 49","price":606.06,"quantity":99},{"name":"Product Model 50","price":6144.29,"quantity":81},{"name":"Product Model 51","price":7201.39,"quantity":3},{"name":"Product Model 52","price":9877.71,"quantity":32},{"name":"Product Model 53","price":5517.96,"quantity":33},{"name":"Product Model 54","price":6241.01,"quantity":78},{"name":"Product Model 55","price":9129.67,"quantity":15},{"name":"Product Model 56","price":736.36,"quantity":22},{"name":"Product Model 57","price":3416.86,"quantity":10},{"name":"Product Model 58","price":2453.93,"quantity":34},{"name":"Product Model 59","price":8575.84,"quantity":39},{"name":"Product Model 60","price":9956.26,"quantity":47},{"name":"Product Model 61","price":9790.36,"quantity":63},{"name":"Product Model 62","price":9596.21,"quantity":43},{"name":"Product Model 63","price":3341.95,"quantity":55},{"name":"Product Model 64","price":7052.22,"quantity":87},{"name":"Product Model 65","price":4695.14,"quantity":90},{"name":"Product Model 66","price":3272.23,"quantity":94},{"name":"Product Model 67","price":1407.23,"quantity":20},{"name":"Product Model 68","price":5971.7,"quantity":8},{"name":"Product Model 69","price":623.98,"quantity":87},{"name":"Product Model 70","price":3473.29,"quantity":56},{"name":"Product Model 71","price":2106.49,"quantity":75},{"name":"Product Model 72","price":5614.92,"quantity":61},{"name":"Product Model 73","price":2128.5,"quantity":25},{"name":"Product Model 74","price":1826.32,"quantity":62},{"name":"Product Model 75","price":9333.63,"quantity":26},{"name":"Product Model 76","price":3506.33,"quantity":21},{"name":"Product Model 77","price":6561.1,"quantity":28},{"name":"Product Model 78","price":1618.05,"quantity":96},{"name":"Product Model 79","price":1639.17,"quantity":84},{"name":"Product Model 80","price":7838.59,"quantity":41},{"name":"Product Model 81","price":5482.76,"quantity":95},{"name":"Product Model 82","price":5375.15,"quantity":83},{"name":"Product Model 83","price":9510.01,"quantity":46},{"name":"Product Model 84","price":9963.66,"quantity":59},{"name":"Product Model 85","price":5252.93,"quantity":73},{"name":"Product Model 86","price":9222.68,"quantity":78},{"name":"Product Model 87","price":1482.05,"quantity":93},{"name":"Product Model 88","price":1514.59,"quantity":24},{"name":"Product Model 89","price":6030.58,"quantity":43},{"name":"Product Model 90","price":3284.35,"quantity":30},{"name":"Product Model 91","price":9847.6,"quantity":94},{"name":"Product Model 92","price":8184.1,"quantity":53},{"name":"Product Model 93","price":5903.57,"quantity":71},{"name":"Product Model 94","price":6590.14,"quantity":58},{"name":"Product Model 95","price":8133.79,"quantity":34},{"name":"Product Model 96","price":1616.55,"quantity":70},{"name":"Product Model 97","price":920.97,"quantity":19},{"name":"Product Model 98","price":7476.75,"quantity":34},{"name":"Product Model 99","price":8549.1,"quantity":93},{"name":"Product Model 100","price":3023.39,"quantity":64},{"name":"Product Model 101","price":6141.12,"quantity":34},{"name":"Product Model 102","price":4961.36,"quantity":57},{"name":"Product Model 103","price":6359.26,"quantity":84},{"name":"Product Model 104","price":9514.75,"quantity":45},{"name":"Product Model 105","price":8769.32,"quantity":52},{"name":"Product Model 106","price":2476.24,"quantity":9},{"name":"Product Model 107","price":6726.57,"quantity":3},{"name":"Product Model 108","price":7028.32,"quantity":15},{"name":"Product Model 109","price":5510.96,"quantity":94},{"name":"Product Model 110","price":5528.36,"quantity":71},{"name":"Product Model 111","price":5424.55,"quantity":74},{"name":"Product Model 112","price":4261.71,"quantity":23},{"name":"Product Model 113","price":3302.52,"quantity":74},{"name":"Product Model 114","price":6061.95,"quantity":42},{"name":"Product Model 115","price":4941.77,"quantity":47},{"name":"Product Model 116","price":7407.61,"quantity":78},{"name":"Product Model 117","price":6901.82,"quantity":22},{"name":"Product Model 118","price":4815.87,"quantity":65},{"name":"Product Model 119","price":9959,"quantity":18},{"name":"Product Model 120","price":928.55,"quantity":39},{"name":"Product Model 121","price":9519.22,"quantity":48},{"name":"Product Model 122","price":2705.72,"quantity":41},{"name":"Product Model 123","price":1890.42,"quantity":48},{"name":"Product Model 124","price":6842.09,"quantity":57},{"name":"Product Model 125","price":4397.63,"quantity":15},{"name":"Product Model 126","price":1191.78,"quantity":63},{"name":"Product Model 127","price":6874.9,"quantity":36},{"name":"Product Model 128","price":6173.08,"quantity":57},{"name":"Product Model 129","price":1012.55,"quantity":24},{"name":"Product Model 130","price":4504.4,"quantity":9},{"name":"Product Model 131","price":5628.11,"quantity":19},{"name":"Product Model 132","price":3344.24,"quantity":60},{"name":"Product Model 133","price":6128.42,"quantity":38},{"name":"Product Model 134","price":2960.89,"quantity":9},{"name":"Product Model 135","price":8692.48,"quantity":69},{"name":"Product Model 136","price":4358.52,"quantity":39},{"name":"Product Model 137","price":7000.81,"quantity":55},{"name":"Product Model 138","price":8144.09,"quantity":60},{"name":"Product Model 139","price":6217.91,"quantity":40},{"name":"Product Model 140","price":7425.2,"quantity":2},{"name":"Product Model 141","price":4948.61,"quantity":79},{"name":"Product Model 142","price":3783.99,"quantity":27},{"name":"Product Model 143","price":3818.7,"quantity":9},{"name":"Product Model 144","price":9636.19,"quantity":49},{"name":"Product Model 145","price":4940.4,"quantity":48},{"name":"Product Model 146","price":4906.26,"quantity":60},{"name":"Product Model 147","price":8208.53,"quantity":39},{"name":"Product Model 148","price":3430.69,"quantity":68},{"name":"Product Model 149","price":8500.35,"quantity":86},{"name":"Product Model 150","price":5165.92,"quantity":35},{"name":"Product Model 151","price":8736.89,"quantity":79},{"name":"Product Model 152","price":4882.03,"quantity":18},{"name":"Product Model 153","price":4490.4,"quantity":57},{"name":"Product Model 154","price":2119.27,"quantity":53},{"name":"Product Model 155","price":2126.96,"quantity":74},{"name":"Product Model 156","price":2321.65,"quantity":19},{"name":"Product Model 157","price":7462.78,"quantity":30},{"name":"Product Model 158","price":7827.16,"quantity":14},{"name":"Product Model 159","price":1172.99,"quantity":72},{"name":"Product Model 160","price":1395.92,"quantity":81},{"name":"Product Model 161","price":6414.76,"quantity":52},{"name":"Product Model 162","price":6566.64,"quantity":61},{"name":"Product Model 163","price":4455.13,"quantity":69},{"name":"Product Model 164","price":395.67,"quantity":91},{"name":"Product Model 165","price":9979.19,"quantity":71},{"name":"Product Model 166","price":4125.89,"quantity":45},{"name":"Product Model 167","price":6733.54,"quantity":56},{"name":"Product Model 168","price":4173.7,"quantity":19},{"name":"Product Model 169","price":8700.68,"quantity":97},{"name":"Product Model 170","price":2719.57,"quantity":15},{"name":"Product Model 171","price":8675.32,"quantity":45},{"name":"Product Model 172","price":6519.09,"quantity":75},{"name":"Product Model 173","price":7155.12,"quantity":67},{"name":"Product Model 174","price":267.06,"quantity":31},{"name":"Product Model 175","price":8271.38,"quantity":14},{"name":"Product Model 176","price":4485.53,"quantity":66},{"name":"Product Model 177","price":7471.9,"quantity":67},{"name":"Product Model 178","price":2144.24,"quantity":8},{"name":"Product Model 179","price":3356.1,"quantity":10},{"name":"Product Model 180","price":8026.93,"quantity":22},{"name":"Product Model 181","price":3424.44,"quantity":8},{"name":"Product Model 182","price":7636.96,"quantity":50},{"name":"Product Model 183","price":7332.06,"quantity":53},{"name":"Product Model 184","price":1097.16,"quantity":1},{"name":"Product Model 185","price":6515.67,"quantity":15},{"name":"Product Model 186","price":6893.52,"quantity":60},{"name":"Product Model 187","price":4042.84,"quantity":33},{"name":"Product Model 188","price":7269.88,"quantity":62},{"name":"Product Model 189","price":5747.64,"quantity":9},{"name":"Product Model 190","price":7886.86,"quantity":44},{"name":"Product Model 191","price":4176.16,"quantity":94},{"name":"Product Model 192","price":4726.88,"quantity":81},{"name":"Product Model 193","price":1221.25,"quantity":76},{"name":"Product Model 194","price":4852.62,"quantity":25},{"name":"Product Model 195","price":3454.58,"quantity":26},{"name":"Product Model 196","price":2968.14,"quantity":60},{"name":"Product Model 197","price":3994.36,"quantity":62},{"name":"Product Model 198","price":1332.43,"quantity":45},{"name":"Product Model 199","price":1408.56,"quantity":31},{"name":"Product Model 200","price":8531.04,"quantity":54}]
+[2025-06-14 18:20:51] INFO: Product: Samsung Galaxy S24 Ultra | Price: 5499.9 | Quantity: 25
+[2025-06-14 18:20:51] INFO: Product: iPhone 15 Pro Max | Price: 7299 | Quantity: 15
+[2025-06-14 18:20:51] INFO: Product: Xiaomi Redmi Note 13 Pro | Price: 1899.9 | Quantity: 30
+[2025-06-14 18:20:51] INFO: Product: Motorola Edge 50 Fusion | Price: 2499 | Quantity: 20
+[2025-06-14 18:20:51] INFO: Product: Alexa | Price: 300 | Quantity: 100
+[2025-06-14 18:20:51] INFO: Product: Product Model 1 | Price: 2041.28 | Quantity: 12
+[2025-06-14 18:20:51] INFO: Product: Product Model 2 | Price: 2262.67 | Quantity: 8
+[2025-06-14 18:20:51] INFO: Product: Product Model 3 | Price: 3155.47 | Quantity: 32
+[2025-06-14 18:20:51] INFO: Product: Product Model 4 | Price: 8514.1 | Quantity: 30
+[2025-06-14 18:20:51] INFO: Product: Product Model 5 | Price: 2138.39 | Quantity: 40
+[2025-06-14 18:20:51] INFO: Product: Product Model 6 | Price: 9370.92 | Quantity: 35
+[2025-06-14 18:20:51] INFO: Product: Product Model 7 | Price: 3120.93 | Quantity: 18
+[2025-06-14 18:20:51] INFO: Product: Product Model 8 | Price: 3700.47 | Quantity: 72
+[2025-06-14 18:20:51] INFO: Product: Product Model 9 | Price: 2591 | Quantity: 22
+[2025-06-14 18:20:51] INFO: Product: Product Model 10 | Price: 5836.26 | Quantity: 63
+[2025-06-14 18:20:51] INFO: Product: Product Model 11 | Price: 6541.86 | Quantity: 8
+[2025-06-14 18:20:51] INFO: Product: Product Model 12 | Price: 9303.09 | Quantity: 91
+[2025-06-14 18:20:51] INFO: Product: Product Model 13 | Price: 5113.57 | Quantity: 34
+[2025-06-14 18:20:51] INFO: Product: Product Model 14 | Price: 1773.56 | Quantity: 83
+[2025-06-14 18:20:51] INFO: Product: Product Model 15 | Price: 7152.01 | Quantity: 19
+[2025-06-14 18:20:51] INFO: Product: Product Model 16 | Price: 3887.2 | Quantity: 93
+[2025-06-14 18:20:51] INFO: Product: Product Model 17 | Price: 5380.59 | Quantity: 79
+[2025-06-14 18:20:51] INFO: Product: Product Model 18 | Price: 3812.52 | Quantity: 72
+[2025-06-14 18:20:51] INFO: Product: Product Model 19 | Price: 5748.98 | Quantity: 38
+[2025-06-14 18:20:51] INFO: Product: Product Model 20 | Price: 6797.96 | Quantity: 25
+[2025-06-14 18:20:51] INFO: Product: Product Model 21 | Price: 8143.46 | Quantity: 7
+[2025-06-14 18:20:51] INFO: Product: Product Model 22 | Price: 3786.44 | Quantity: 41
+[2025-06-14 18:20:51] INFO: Product: Product Model 23 | Price: 9997.11 | Quantity: 63
+[2025-06-14 18:20:51] INFO: Product: Product Model 24 | Price: 5540.11 | Quantity: 23
+[2025-06-14 18:20:51] INFO: Product: Product Model 25 | Price: 9163.2 | Quantity: 76
+[2025-06-14 18:20:51] INFO: Product: Product Model 26 | Price: 5301.28 | Quantity: 92
+[2025-06-14 18:20:51] INFO: Product: Product Model 27 | Price: 8634.19 | Quantity: 27
+[2025-06-14 18:20:51] INFO: Product: Product Model 28 | Price: 8416.88 | Quantity: 11
+[2025-06-14 18:20:51] INFO: Product: Product Model 29 | Price: 3802.12 | Quantity: 99
+[2025-06-14 18:20:51] INFO: Product: Product Model 30 | Price: 5219.81 | Quantity: 39
+[2025-06-14 18:20:51] INFO: Product: Product Model 31 | Price: 3522.33 | Quantity: 94
+[2025-06-14 18:20:51] INFO: Product: Product Model 32 | Price: 8501.24 | Quantity: 70
+[2025-06-14 18:20:51] INFO: Product: Product Model 33 | Price: 6685.13 | Quantity: 86
+[2025-06-14 18:20:51] INFO: Product: Product Model 34 | Price: 7686.9 | Quantity: 87
+[2025-06-14 18:20:51] INFO: Product: Product Model 35 | Price: 7557.57 | Quantity: 95
+[2025-06-14 18:20:51] INFO: Product: Product Model 36 | Price: 1480.11 | Quantity: 2
+[2025-06-14 18:20:51] INFO: Product: Product Model 37 | Price: 1116 | Quantity: 73
+[2025-06-14 18:20:51] INFO: Product: Product Model 38 | Price: 9889.07 | Quantity: 71
+[2025-06-14 18:20:51] INFO: Product: Product Model 39 | Price: 9463.14 | Quantity: 65
+[2025-06-14 18:20:51] INFO: Product: Product Model 40 | Price: 5679.7 | Quantity: 5
+[2025-06-14 18:20:51] INFO: Product: Product Model 41 | Price: 8956.65 | Quantity: 48
+[2025-06-14 18:20:51] INFO: Product: Product Model 42 | Price: 4257.86 | Quantity: 79
+[2025-06-14 18:20:51] INFO: Product: Product Model 43 | Price: 409.58 | Quantity: 90
+[2025-06-14 18:20:51] INFO: Product: Product Model 44 | Price: 8286.02 | Quantity: 35
+[2025-06-14 18:20:51] INFO: Product: Product Model 45 | Price: 9674.57 | Quantity: 48
+[2025-06-14 18:20:51] INFO: Product: Product Model 46 | Price: 1228.5 | Quantity: 4
+[2025-06-14 18:20:51] INFO: Product: Product Model 47 | Price: 402.5 | Quantity: 18
+[2025-06-14 18:20:51] INFO: Product: Product Model 48 | Price: 7856.23 | Quantity: 3
+[2025-06-14 18:20:51] INFO: Product: Product Model 49 | Price: 606.06 | Quantity: 99
+[2025-06-14 18:20:51] INFO: Product: Product Model 50 | Price: 6144.29 | Quantity: 81
+[2025-06-14 18:20:51] INFO: Product: Product Model 51 | Price: 7201.39 | Quantity: 3
+[2025-06-14 18:20:51] INFO: Product: Product Model 52 | Price: 9877.71 | Quantity: 32
+[2025-06-14 18:20:51] INFO: Product: Product Model 53 | Price: 5517.96 | Quantity: 33
+[2025-06-14 18:20:51] INFO: Product: Product Model 54 | Price: 6241.01 | Quantity: 78
+[2025-06-14 18:20:51] INFO: Product: Product Model 55 | Price: 9129.67 | Quantity: 15
+[2025-06-14 18:20:51] INFO: Product: Product Model 56 | Price: 736.36 | Quantity: 22
+[2025-06-14 18:20:51] INFO: Product: Product Model 57 | Price: 3416.86 | Quantity: 10
+[2025-06-14 18:20:51] INFO: Product: Product Model 58 | Price: 2453.93 | Quantity: 34
+[2025-06-14 18:20:51] INFO: Product: Product Model 59 | Price: 8575.84 | Quantity: 39
+[2025-06-14 18:20:51] INFO: Product: Product Model 60 | Price: 9956.26 | Quantity: 47
+[2025-06-14 18:20:51] INFO: Product: Product Model 61 | Price: 9790.36 | Quantity: 63
+[2025-06-14 18:20:51] INFO: Product: Product Model 62 | Price: 9596.21 | Quantity: 43
+[2025-06-14 18:20:51] INFO: Product: Product Model 63 | Price: 3341.95 | Quantity: 55
+[2025-06-14 18:20:51] INFO: Product: Product Model 64 | Price: 7052.22 | Quantity: 87
+[2025-06-14 18:20:51] INFO: Product: Product Model 65 | Price: 4695.14 | Quantity: 90
+[2025-06-14 18:20:51] INFO: Product: Product Model 66 | Price: 3272.23 | Quantity: 94
+[2025-06-14 18:20:51] INFO: Product: Product Model 67 | Price: 1407.23 | Quantity: 20
+[2025-06-14 18:20:51] INFO: Product: Product Model 68 | Price: 5971.7 | Quantity: 8
+[2025-06-14 18:20:51] INFO: Product: Product Model 69 | Price: 623.98 | Quantity: 87
+[2025-06-14 18:20:51] INFO: Product: Product Model 70 | Price: 3473.29 | Quantity: 56
+[2025-06-14 18:20:51] INFO: Product: Product Model 71 | Price: 2106.49 | Quantity: 75
+[2025-06-14 18:20:51] INFO: Product: Product Model 72 | Price: 5614.92 | Quantity: 61
+[2025-06-14 18:20:51] INFO: Product: Product Model 73 | Price: 2128.5 | Quantity: 25
+[2025-06-14 18:20:51] INFO: Product: Product Model 74 | Price: 1826.32 | Quantity: 62
+[2025-06-14 18:20:51] INFO: Product: Product Model 75 | Price: 9333.63 | Quantity: 26
+[2025-06-14 18:20:51] INFO: Product: Product Model 76 | Price: 3506.33 | Quantity: 21
+[2025-06-14 18:20:51] INFO: Product: Product Model 77 | Price: 6561.1 | Quantity: 28
+[2025-06-14 18:20:51] INFO: Product: Product Model 78 | Price: 1618.05 | Quantity: 96
+[2025-06-14 18:20:51] INFO: Product: Product Model 79 | Price: 1639.17 | Quantity: 84
+[2025-06-14 18:20:51] INFO: Product: Product Model 80 | Price: 7838.59 | Quantity: 41
+[2025-06-14 18:20:51] INFO: Product: Product Model 81 | Price: 5482.76 | Quantity: 95
+[2025-06-14 18:20:51] INFO: Product: Product Model 82 | Price: 5375.15 | Quantity: 83
+[2025-06-14 18:20:51] INFO: Product: Product Model 83 | Price: 9510.01 | Quantity: 46
+[2025-06-14 18:20:51] INFO: Product: Product Model 84 | Price: 9963.66 | Quantity: 59
+[2025-06-14 18:20:51] INFO: Product: Product Model 85 | Price: 5252.93 | Quantity: 73
+[2025-06-14 18:20:51] INFO: Product: Product Model 86 | Price: 9222.68 | Quantity: 78
+[2025-06-14 18:20:51] INFO: Product: Product Model 87 | Price: 1482.05 | Quantity: 93
+[2025-06-14 18:20:51] INFO: Product: Product Model 88 | Price: 1514.59 | Quantity: 24
+[2025-06-14 18:20:51] INFO: Product: Product Model 89 | Price: 6030.58 | Quantity: 43
+[2025-06-14 18:20:51] INFO: Product: Product Model 90 | Price: 3284.35 | Quantity: 30
+[2025-06-14 18:20:51] INFO: Product: Product Model 91 | Price: 9847.6 | Quantity: 94
+[2025-06-14 18:20:51] INFO: Product: Product Model 92 | Price: 8184.1 | Quantity: 53
+[2025-06-14 18:20:51] INFO: Product: Product Model 93 | Price: 5903.57 | Quantity: 71
+[2025-06-14 18:20:51] INFO: Product: Product Model 94 | Price: 6590.14 | Quantity: 58
+[2025-06-14 18:20:51] INFO: Product: Product Model 95 | Price: 8133.79 | Quantity: 34
+[2025-06-14 18:20:51] INFO: Product: Product Model 96 | Price: 1616.55 | Quantity: 70
+[2025-06-14 18:20:51] INFO: Product: Product Model 97 | Price: 920.97 | Quantity: 19
+[2025-06-14 18:20:51] INFO: Product: Product Model 98 | Price: 7476.75 | Quantity: 34
+[2025-06-14 18:20:51] INFO: Product: Product Model 99 | Price: 8549.1 | Quantity: 93
+[2025-06-14 18:20:51] INFO: Product: Product Model 100 | Price: 3023.39 | Quantity: 64
+[2025-06-14 18:20:51] INFO: Product: Product Model 101 | Price: 6141.12 | Quantity: 34
+[2025-06-14 18:20:51] INFO: Product: Product Model 102 | Price: 4961.36 | Quantity: 57
+[2025-06-14 18:20:51] INFO: Product: Product Model 103 | Price: 6359.26 | Quantity: 84
+[2025-06-14 18:20:51] INFO: Product: Product Model 104 | Price: 9514.75 | Quantity: 45
+[2025-06-14 18:20:51] INFO: Product: Product Model 105 | Price: 8769.32 | Quantity: 52
+[2025-06-14 18:20:51] INFO: Product: Product Model 106 | Price: 2476.24 | Quantity: 9
+[2025-06-14 18:20:51] INFO: Product: Product Model 107 | Price: 6726.57 | Quantity: 3
+[2025-06-14 18:20:51] INFO: Product: Product Model 108 | Price: 7028.32 | Quantity: 15
+[2025-06-14 18:20:51] INFO: Product: Product Model 109 | Price: 5510.96 | Quantity: 94
+[2025-06-14 18:20:51] INFO: Product: Product Model 110 | Price: 5528.36 | Quantity: 71
+[2025-06-14 18:20:51] INFO: Product: Product Model 111 | Price: 5424.55 | Quantity: 74
+[2025-06-14 18:20:51] INFO: Product: Product Model 112 | Price: 4261.71 | Quantity: 23
+[2025-06-14 18:20:52] INFO: Product: Product Model 113 | Price: 3302.52 | Quantity: 74
+[2025-06-14 18:20:52] INFO: Product: Product Model 114 | Price: 6061.95 | Quantity: 42
+[2025-06-14 18:20:52] INFO: Product: Product Model 115 | Price: 4941.77 | Quantity: 47
+[2025-06-14 18:20:52] INFO: Product: Product Model 116 | Price: 7407.61 | Quantity: 78
+[2025-06-14 18:20:52] INFO: Product: Product Model 117 | Price: 6901.82 | Quantity: 22
+[2025-06-14 18:20:52] INFO: Product: Product Model 118 | Price: 4815.87 | Quantity: 65
+[2025-06-14 18:20:52] INFO: Product: Product Model 119 | Price: 9959 | Quantity: 18
+[2025-06-14 18:20:52] INFO: Product: Product Model 120 | Price: 928.55 | Quantity: 39
+[2025-06-14 18:20:52] INFO: Product: Product Model 121 | Price: 9519.22 | Quantity: 48
+[2025-06-14 18:20:52] INFO: Product: Product Model 122 | Price: 2705.72 | Quantity: 41
+[2025-06-14 18:20:52] INFO: Product: Product Model 123 | Price: 1890.42 | Quantity: 48
+[2025-06-14 18:20:52] INFO: Product: Product Model 124 | Price: 6842.09 | Quantity: 57
+[2025-06-14 18:20:52] INFO: Product: Product Model 125 | Price: 4397.63 | Quantity: 15
+[2025-06-14 18:20:52] INFO: Product: Product Model 126 | Price: 1191.78 | Quantity: 63
+[2025-06-14 18:20:52] INFO: Product: Product Model 127 | Price: 6874.9 | Quantity: 36
+[2025-06-14 18:20:52] INFO: Product: Product Model 128 | Price: 6173.08 | Quantity: 57
+[2025-06-14 18:20:52] INFO: Product: Product Model 129 | Price: 1012.55 | Quantity: 24
+[2025-06-14 18:20:52] INFO: Product: Product Model 130 | Price: 4504.4 | Quantity: 9
+[2025-06-14 18:20:52] INFO: Product: Product Model 131 | Price: 5628.11 | Quantity: 19
+[2025-06-14 18:20:52] INFO: Product: Product Model 132 | Price: 3344.24 | Quantity: 60
+[2025-06-14 18:20:52] INFO: Product: Product Model 133 | Price: 6128.42 | Quantity: 38
+[2025-06-14 18:20:52] INFO: Product: Product Model 134 | Price: 2960.89 | Quantity: 9
+[2025-06-14 18:20:52] INFO: Product: Product Model 135 | Price: 8692.48 | Quantity: 69
+[2025-06-14 18:20:52] INFO: Product: Product Model 136 | Price: 4358.52 | Quantity: 39
+[2025-06-14 18:20:52] INFO: Product: Product Model 137 | Price: 7000.81 | Quantity: 55
+[2025-06-14 18:20:52] INFO: Product: Product Model 138 | Price: 8144.09 | Quantity: 60
+[2025-06-14 18:20:52] INFO: Product: Product Model 139 | Price: 6217.91 | Quantity: 40
+[2025-06-14 18:20:52] INFO: Product: Product Model 140 | Price: 7425.2 | Quantity: 2
+[2025-06-14 18:20:52] INFO: Product: Product Model 141 | Price: 4948.61 | Quantity: 79
+[2025-06-14 18:20:52] INFO: Product: Product Model 142 | Price: 3783.99 | Quantity: 27
+[2025-06-14 18:20:52] INFO: Product: Product Model 143 | Price: 3818.7 | Quantity: 9
+[2025-06-14 18:20:52] INFO: Product: Product Model 144 | Price: 9636.19 | Quantity: 49
+[2025-06-14 18:20:52] INFO: Product: Product Model 145 | Price: 4940.4 | Quantity: 48
+[2025-06-14 18:20:52] INFO: Product: Product Model 146 | Price: 4906.26 | Quantity: 60
+[2025-06-14 18:20:52] INFO: Product: Product Model 147 | Price: 8208.53 | Quantity: 39
+[2025-06-14 18:20:52] INFO: Product: Product Model 148 | Price: 3430.69 | Quantity: 68
+[2025-06-14 18:20:52] INFO: Product: Product Model 149 | Price: 8500.35 | Quantity: 86
+[2025-06-14 18:20:52] INFO: Product: Product Model 150 | Price: 5165.92 | Quantity: 35
+[2025-06-14 18:20:52] INFO: Product: Product Model 151 | Price: 8736.89 | Quantity: 79
+[2025-06-14 18:20:52] INFO: Product: Product Model 152 | Price: 4882.03 | Quantity: 18
+[2025-06-14 18:20:52] INFO: Product: Product Model 153 | Price: 4490.4 | Quantity: 57
+[2025-06-14 18:20:52] INFO: Product: Product Model 154 | Price: 2119.27 | Quantity: 53
+[2025-06-14 18:20:52] INFO: Product: Product Model 155 | Price: 2126.96 | Quantity: 74
+[2025-06-14 18:20:52] INFO: Product: Product Model 156 | Price: 2321.65 | Quantity: 19
+[2025-06-14 18:20:52] INFO: Product: Product Model 157 | Price: 7462.78 | Quantity: 30
+[2025-06-14 18:20:52] INFO: Product: Product Model 158 | Price: 7827.16 | Quantity: 14
+[2025-06-14 18:20:52] INFO: Product: Product Model 159 | Price: 1172.99 | Quantity: 72
+[2025-06-14 18:20:52] INFO: Product: Product Model 160 | Price: 1395.92 | Quantity: 81
+[2025-06-14 18:20:52] INFO: Product: Product Model 161 | Price: 6414.76 | Quantity: 52
+[2025-06-14 18:20:52] INFO: Product: Product Model 162 | Price: 6566.64 | Quantity: 61
+[2025-06-14 18:20:52] INFO: Product: Product Model 163 | Price: 4455.13 | Quantity: 69
+[2025-06-14 18:20:52] INFO: Product: Product Model 164 | Price: 395.67 | Quantity: 91
+[2025-06-14 18:20:52] INFO: Product: Product Model 165 | Price: 9979.19 | Quantity: 71
+[2025-06-14 18:20:52] INFO: Product: Product Model 166 | Price: 4125.89 | Quantity: 45
+[2025-06-14 18:20:52] INFO: Product: Product Model 167 | Price: 6733.54 | Quantity: 56
+[2025-06-14 18:20:52] INFO: Product: Product Model 168 | Price: 4173.7 | Quantity: 19
+[2025-06-14 18:20:52] INFO: Product: Product Model 169 | Price: 8700.68 | Quantity: 97
+[2025-06-14 18:20:52] INFO: Product: Product Model 170 | Price: 2719.57 | Quantity: 15
+[2025-06-14 18:20:53] INFO: Product: Product Model 171 | Price: 8675.32 | Quantity: 45
+[2025-06-14 18:20:53] INFO: Product: Product Model 172 | Price: 6519.09 | Quantity: 75
+[2025-06-14 18:20:53] INFO: Product: Product Model 173 | Price: 7155.12 | Quantity: 67
+[2025-06-14 18:20:53] INFO: Product: Product Model 174 | Price: 267.06 | Quantity: 31
+[2025-06-14 18:20:53] INFO: Product: Product Model 175 | Price: 8271.38 | Quantity: 14
+[2025-06-14 18:20:53] INFO: Product: Product Model 176 | Price: 4485.53 | Quantity: 66
+[2025-06-14 18:20:53] INFO: Product: Product Model 177 | Price: 7471.9 | Quantity: 67
+[2025-06-14 18:20:53] INFO: Product: Product Model 178 | Price: 2144.24 | Quantity: 8
+[2025-06-14 18:20:53] INFO: Product: Product Model 179 | Price: 3356.1 | Quantity: 10
+[2025-06-14 18:20:53] INFO: Product: Product Model 180 | Price: 8026.93 | Quantity: 22
+[2025-06-14 18:20:53] INFO: Product: Product Model 181 | Price: 3424.44 | Quantity: 8
+[2025-06-14 18:20:53] INFO: Product: Product Model 182 | Price: 7636.96 | Quantity: 50
+[2025-06-14 18:20:53] INFO: Product: Product Model 183 | Price: 7332.06 | Quantity: 53
+[2025-06-14 18:20:53] INFO: Product: Product Model 184 | Price: 1097.16 | Quantity: 1
+[2025-06-14 18:20:53] INFO: Product: Product Model 185 | Price: 6515.67 | Quantity: 15
+[2025-06-14 18:20:53] INFO: Product: Product Model 186 | Price: 6893.52 | Quantity: 60
+[2025-06-14 18:20:53] INFO: Product: Product Model 187 | Price: 4042.84 | Quantity: 33
+[2025-06-14 18:20:53] INFO: Product: Product Model 188 | Price: 7269.88 | Quantity: 62
+[2025-06-14 18:20:53] INFO: Product: Product Model 189 | Price: 5747.64 | Quantity: 9
+[2025-06-14 18:20:53] INFO: Product: Product Model 190 | Price: 7886.86 | Quantity: 44
+[2025-06-14 18:20:53] INFO: Product: Product Model 191 | Price: 4176.16 | Quantity: 94
+[2025-06-14 18:20:53] INFO: Product: Product Model 192 | Price: 4726.88 | Quantity: 81
+[2025-06-14 18:20:53] INFO: Product: Product Model 193 | Price: 1221.25 | Quantity: 76
+[2025-06-14 18:20:53] INFO: Product: Product Model 194 | Price: 4852.62 | Quantity: 25
+[2025-06-14 18:20:53] INFO: Product: Product Model 195 | Price: 3454.58 | Quantity: 26
+[2025-06-14 18:20:53] INFO: Product: Product Model 196 | Price: 2968.14 | Quantity: 60
+[2025-06-14 18:20:53] INFO: Product: Product Model 197 | Price: 3994.36 | Quantity: 62
+[2025-06-14 18:20:53] INFO: Product: Product Model 198 | Price: 1332.43 | Quantity: 45
+[2025-06-14 18:20:53] INFO: Product: Product Model 199 | Price: 1408.56 | Quantity: 31
+[2025-06-14 18:20:53] INFO: Product: Product Model 200 | Price: 8531.04 | Quantity: 54
