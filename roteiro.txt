@@ -5,4 +5,55 @@ CRON is a automation in javascript, where you make a code to be execute every te
 
 so let's go:
 
+1˚ you will need install:
+ npm init -y
+ node-cron
+ dotenv
+ winsdson
+
 CODING...
+
+in first file we just call script to be executed:
+(index)
+
+
+Here is CRON, here we set how much time code will be
+execute, to this example I will set 10s
+
+I will let in description a table to you understand
+already let your like
+
+Interval	CRON expression
+Every 30 seconds	*/30 * * * * *
+Every 30 minutes	*/30 * * * *
+Every 1 hour	    0 * * * *
+Every 24 hours	    0 0 * * *
+Every 48 hours	    0 0 */2 * *
+
+Now I will call an api that I did some day ago to practice DDD
+
+Here is a basic api call in JS, I missing something in api SSL so I using
+this code just to work 
+
+NEVER, NEVER DO THIS IN PRODUCTION !!!!!
+
+corte
+
+So, Always remember parameter your enviroment variable, like 
+security key or api url, because if you fix in the code 
+in many different files trust in me,
+just wait my friend
+you will have a BIG PROBLEM LATER
+
+this logger is very good to we check what happen. we have step by step
+here is the classs:
+
+
+
+So let's see working:
+
+WONDERFUL, sucess !
+
+let's see our logs
+
+NICE, i see you on the next time.

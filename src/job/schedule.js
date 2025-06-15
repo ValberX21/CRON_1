@@ -13,4 +13,4 @@ cron.schedule('*/10 * * * * *', async () => {
     }
 });
 
-logger.info('CRON scheduler ')
+logger.info('CRON scheduler executed')
